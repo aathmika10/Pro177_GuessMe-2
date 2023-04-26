@@ -1,0 +1,11 @@
+body{
+    background-image: url('/static/assets/background.jpg');
+    background-size: cover;
+    font-family: 'Pangolin',cursive;
+    font-size: large;
+}
+div{
+    margin-top:20px;
+    margin-left: 400px;
+    margin-bottom:20px
+}
